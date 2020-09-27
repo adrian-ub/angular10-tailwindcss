@@ -1,5 +1,9 @@
 # Tailwindcss
 
+<center>
+<img src="https://github.com/adrian-ub/angular10-tailwindcss/blob/master/image.png" />
+</center>
+
 This is an angular project with tailwindcss
 
 # Steps
@@ -16,7 +20,7 @@ Install dependencies
 yarn add tailwindcss postcss-scss postcss-import postcss-loader@~3.0.0 @angular-builders/custom-webpack -D
 ```
 
-Open your styles.scss file and add the following at the top.
+Open your `styles.scss` file and add the following at the top.
 
 ```
 @import 'tailwindcss/base';
